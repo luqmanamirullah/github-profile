@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on project [Web SMKN 4 Bandung](https://github.com/conaryid/smkn4bdg)
 
-- 🌱 I’m currently learning **Nest JS**
+- 🌱 I’m currently learning **Python for WebDev & Vue JS**
 
 - 💬 Ask me about **Next JS, Typescript**
 
