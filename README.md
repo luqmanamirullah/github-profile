@@ -32,9 +32,9 @@
 <h1 align="center">Hi 👋, I'm Luqman Amirullah</h1>
 <h3 align="center">A student that want to be fullstack developer from Indonesia</h3>
 
-- 🔭 I’m currently working on project [Web SMKN 4 Bandung](https://github.com/conaryid/smkn4bdg)
+- 🔭 I’m currently doing an internship as a Data Engineer at an AI Company [Soca AI](https://soca.ai/)
 
-- 🌱 I’m currently learning **Python for WebDev & Vue JS**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Next JS, Typescript**
 
