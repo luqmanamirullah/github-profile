@@ -34,7 +34,7 @@
 
 - 🔭 I’m currently doing an internship as a Data Engineer at an AI Company [Soca AI](https://soca.ai/)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python 🐍 & Golang 💙**
 
 - 💬 Ask me about **Next JS, Typescript**
 
