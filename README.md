@@ -26,7 +26,7 @@
 ```
 
 <h1 align="center">Hi 👋, I'm Luqman Amirullah</h1>
-<h3 align="center">A student that want to be fullstack developer from Indonesia</h3>
+<h3 align="center">A fullstack developer from Indonesia</h3>
 
 - 🔭 I’m currently doing an internship as a Data Engineer at an AI Company [Soca AI](https://soca.ai/)
 
