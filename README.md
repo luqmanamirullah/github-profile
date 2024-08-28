@@ -28,7 +28,7 @@
 <h1 align="center">Hi 👋, I'm Luqman Amirullah</h1>
 <h3 align="center">A fullstack developer from Indonesia</h3>
 
-- 🔭 ...
+- 🔭 I'm working as a remote fullstack engineer
 
 - 🌱 I’m currently learning **Python 🐍 & Go 💙**
 
@@ -254,6 +254,14 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
       alt="go"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      alt="aws"
       width="40"
       height="40"
     />
