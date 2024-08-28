@@ -36,6 +36,8 @@
 
 - 💬 Ask me about **Next JS, Typescript**
 
+- 💞️ I like to do research, code, solving a problem
+
 - 📫 How to reach me **amirullahluqman@gmail.com**
 
 ## Tech stack & Tools 💻
