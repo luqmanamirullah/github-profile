@@ -32,7 +32,7 @@
   
 - 🔭 I am currently employed as a remote full-stack engineer.
 
-- 🌱 I’m currently learning **Python 🐍 & Go 💙**
+- 🌱 I’m currently learning **Python 🐍 & Go 💙 & LLMs 🤖**
 
 - 💬 Ask me about **Next JS, Typescript**
 
